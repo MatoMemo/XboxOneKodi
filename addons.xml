@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="Xbox.One.Kodi" name="Xbox.One.Kodi" version="0.0.2" provider-name="MatoMemo">
-	<extension point="xbmc.addon.repository" name="Xbox.One.Kodi">
+<addon id="Xbox One Kodi" name="Xbox One Kodi" version="0.0.2" provider-name="MatoMemo">
+	<extension point="xbmc.addon.repository" name="Xbox One Kodi">
 		<info compressed="false">http://raw.github.com/MatoMemo/XboxOneKodi/master/addons.xml</info>
 		<checksum>http://raw.github.com/MatoMemo/XboxOneKodi/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/MatoMemo/XboxOneKodi/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Xbox.One.Kodi</summary>
+		<summary>Xbox One Kodi</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
